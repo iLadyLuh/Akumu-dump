@@ -2,7 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Decompiled-success)
 ![Architecture](https://img.shields.io/badge/Target-GameMaker_VM-lightgrey)
-![Code_Quality](https://img.shields.io/badge/Code_Quality-Questionable-red)
 
 This repository serves as a technical case study in retrieving source code from compiled executables. It contains the raw Game Maker Language (GML) scripts, object definitions, and asset metadata extracted from the game "**Akumu**".
 
